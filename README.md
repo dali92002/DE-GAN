@@ -2,6 +2,7 @@
 ## Description
 DE-GAN is a conditional generative adversarial network designed for document cleaning, binarization, deblurring and watermark removal. 
 ## Requirements
+will be added
 ## Using DE-GAN
 ### Document cleaning
 degraded image:<br /><br />
@@ -24,4 +25,4 @@ watermarked image:<br /><br />
 clean image:<br /><br />
 ![alt text](https://github.com/dali92002/DE-GAN/blob/master/images/960cleaned.png?raw=true)<br /><br />
 ## Training with your own data
-
+will be added
