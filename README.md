@@ -62,7 +62,7 @@ python train.py
 ## Citation
 - If this work was useful for you, please cite it as: 
 ```
-@ARTICLE{9187695,
+@ARTICLE{Souibgui2020,
   author={Mohamed Ali Souibgui  and Yousri Kessentini},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={DE-GAN: A Conditional Generative Adversarial Network for Document Enhancement}, 
