@@ -10,10 +10,14 @@ will be added
 git clone https://github.com/dali92002/DE-GAN
 cd DE-GAN
 ```
-- Then, download the trained weghts to directly use the model for document enhancement, it is important to save these weights in the subfolder named weight, in the DE-GAN folder. The link of the weights:
-* https://drive.google.com/file/d/1J_t-TzR2rxp94SzfPoeuJniSFLfY3HM-/view?usp=sharing
+- Then, download the trained weghts to directly use the model for document enhancement, it is important to save these weights in the subfolder named weight, in the DE-GAN folder. The link of the weightsis : https://drive.google.com/file/d/1J_t-TzR2rxp94SzfPoeuJniSFLfY3HM-/view?usp=sharing
 ## Using DE-GAN
 ### Document binarization
+- To binarize an image use the followng command: 
+```bash
+python enhance.py binarize ./image_to_binarize ./directory_to_binarized_imge
+```
+
 image:<br /><br />
 ![alt text](https://github.com/dali92002/DE-GAN/blob/master/images/2.bmp?raw=true)<br /><br />
 binarized image:<br /><br />
