@@ -53,7 +53,7 @@ degraded image:<br /><br />
 cleaned image:<br /><br />
 ![alt text](https://github.com/dali92002/DE-GAN/blob/master/images/1cleaned.png?raw=true)<br /><br />
 ## Training with your own data
-- To train with your own data, place your degraded images in the folder images/A/ and the corresponding ground-truth in the folder images/B. It is necessary that each degraded image and its corresponding gt are having the same name (could have different extentions), also, the number images  should be the same in both folders.
+- To train with your own data, place your degraded images in the folder "images/A/" and the corresponding ground-truth in the folder "images/B/". It is necessary that each degraded image and its corresponding gt are having the same name (could have different extentions), also, the number images  should be the same in both folders.
 - Command to train:
 ```bash
 python train.py 
