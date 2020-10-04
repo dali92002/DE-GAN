@@ -5,11 +5,11 @@ DE-GAN is a conditional generative adversarial network designed to enhance the d
 will be added
 ## Installation
 Clone the repo: 
-git clone https://github.com/dali92002/DE-GAN
-The, cd to the folder:
-cd DE-GAN
-Then, download the trained weghts to used the model for document enhancement from the following link:
-https://drive.google.com/file/d/1J_t-TzR2rxp94SzfPoeuJniSFLfY3HM-/view?usp=sharing
+*git clone https://github.com/dali92002/DE-GAN
+Then, cd to the folder:
+*cd DE-GAN
+Then, download the trained weghts to used the model for document enhancement from the following link, it is important to save these weights in the subfolder named weight within the DE-GAN folder:
+*https://drive.google.com/file/d/1J_t-TzR2rxp94SzfPoeuJniSFLfY3HM-/view?usp=sharing
 ## Using DE-GAN
 ### Document binarization
 image:<br /><br />
