@@ -16,7 +16,7 @@ DE-GAN is a conditional generative adversarial network designed to enhance the d
 git clone https://github.com/dali92002/DE-GAN
 cd DE-GAN
 ```
-- Then, download the trained weghts to directly use the model for document enhancement, it is important to save these weights in the subfolder named weight, in the DE-GAN folder. The link of the weightsis : https://drive.google.com/file/d/1J_t-TzR2rxp94SzfPoeuJniSFLfY3HM-/view?usp=sharing
+- Then, download the trained weghts to directly use the model for document enhancement, it is important to save these weights in the subfolder named weights, in the DE-GAN folder. The link of the weightsis : https://drive.google.com/file/d/1J_t-TzR2rxp94SzfPoeuJniSFLfY3HM-/view?usp=sharing
 ## Using DE-GAN
 ### Document binarization
 - To binarize an image use the followng command: 
