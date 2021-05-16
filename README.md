@@ -5,12 +5,7 @@ DE-GAN is a conditional generative adversarial network designed to enhance the d
 ## License
 This work is only allowed for academic research use. For commercial use, please contact the author.
 ## Requirements
-- tensorflow
-- matplotlib
-- pillow
-- scipy
-- imageio
-- tqdm
+- install the requirements.txt
 ## Installation
 
 - Clone this repo:
