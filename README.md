@@ -4,8 +4,6 @@ This is an implementation for the paper [DE-GAN: A Conditional Generative Advers
 DE-GAN is a conditional generative adversarial network designed to enhance the document quality before the recognition process. It could be used for document cleaning, binarization, deblurring and watermark removal. The weights are available to test the enhancement. 
 ## License
 This work is only allowed for academic research use. For commercial use, please contact the author.
-## Requirements
-- install the requirements.txt
 ## Download
 
 - Clone this repo:
@@ -14,6 +12,8 @@ git clone https://github.com/dali92002/DE-GAN
 cd DE-GAN
 ```
 - Then, download the trained weghts to directly use the model for document enhancement, it is important to save these weights in the subfolder named weights, in the DE-GAN folder. The link to download the weights is : https://drive.google.com/file/d/1J_t-TzR2rxp94SzfPoeuJniSFLfY3HM-/view?usp=sharing
+## Requirements
+- install the requirements.txt
 ## Using DE-GAN
 ### Document binarization
 - To binarize an image use the followng command: 
