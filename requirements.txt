@@ -6,6 +6,6 @@ pillow==8.1.0
 scipy==1.4.1
 tensorboard==1.13.1
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==1.13.1
+tensorflow==2.7.2
 tensorflow-estimator==1.13.0
 tqdm==4.46.0
